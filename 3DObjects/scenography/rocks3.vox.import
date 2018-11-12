@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/rocks3.vox-35cb03d14bdbff10e8243440f4438749.mesh"
+
+[deps]
+
+source_file="res://3DObjects/scenography/rocks3.vox"
+dest_files=[ "res://.import/rocks3.vox-35cb03d14bdbff10e8243440f4438749.mesh" ]
+
+[params]
+

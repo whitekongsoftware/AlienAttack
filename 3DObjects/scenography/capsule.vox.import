@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/capsule.vox-54af6b560c37387b1c97b69125747b5b.mesh"
+
+[deps]
+
+source_file="res://3DObjects/scenography/capsule.vox"
+dest_files=[ "res://.import/capsule.vox-54af6b560c37387b1c97b69125747b5b.mesh" ]
+
+[params]
+

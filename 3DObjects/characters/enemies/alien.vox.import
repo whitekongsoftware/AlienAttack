@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/alien.vox-b7615c0d956d491d1c9f50523a681f41.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/alien.vox"
+dest_files=[ "res://.import/alien.vox-b7615c0d956d491d1c9f50523a681f41.mesh" ]
+
+[params]
+

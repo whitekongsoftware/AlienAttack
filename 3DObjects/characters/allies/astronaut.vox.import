@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/astronaut.vox-adf1a358b636e19b7243d7d0d64fd0bb.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/allies/astronaut.vox"
+dest_files=[ "res://.import/astronaut.vox-adf1a358b636e19b7243d7d0d64fd0bb.mesh" ]
+
+[params]
+

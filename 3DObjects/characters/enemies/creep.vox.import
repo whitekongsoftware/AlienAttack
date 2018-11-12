@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/creep.vox-4f52bbdcb77d6c3eccb3db37731a7dcc.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/creep.vox"
+dest_files=[ "res://.import/creep.vox-4f52bbdcb77d6c3eccb3db37731a7dcc.mesh" ]
+
+[params]
+

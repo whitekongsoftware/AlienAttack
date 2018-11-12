@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/crater1.vox-599f661248945b81cb092682415896da.mesh"
+
+[deps]
+
+source_file="res://3DObjects/scenography/crater1.vox"
+dest_files=[ "res://.import/crater1.vox-599f661248945b81cb092682415896da.mesh" ]
+
+[params]
+

@@ -11,7 +11,12 @@ config_version=3
 [application]
 
 config/name="AlienAttack"
+run/main_scene="res://pruebas.tscn"
 config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "MagicaVoxelImporter" )
 
 [rendering]
 

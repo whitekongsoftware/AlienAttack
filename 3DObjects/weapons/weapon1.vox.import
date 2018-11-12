@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/weapon1.vox-b576c4d643c3335638bf636f46d43e58.mesh"
+
+[deps]
+
+source_file="res://3DObjects/weapons/weapon1.vox"
+dest_files=[ "res://.import/weapon1.vox-b576c4d643c3335638bf636f46d43e58.mesh" ]
+
+[params]
+

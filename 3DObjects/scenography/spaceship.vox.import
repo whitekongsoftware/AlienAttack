@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/spaceship.vox-80536b5762c968ac11b61e9364d5154f.mesh"
+
+[deps]
+
+source_file="res://3DObjects/scenography/spaceship.vox"
+dest_files=[ "res://.import/spaceship.vox-80536b5762c968ac11b61e9364d5154f.mesh" ]
+
+[params]
+

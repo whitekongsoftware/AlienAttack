@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/bombPig.vox-734b367e2bf4d12ed787495750719beb.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/bombPig.vox"
+dest_files=[ "res://.import/bombPig.vox-734b367e2bf4d12ed787495750719beb.mesh" ]
+
+[params]
+

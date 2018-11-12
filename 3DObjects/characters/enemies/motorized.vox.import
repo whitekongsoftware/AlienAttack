@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/motorized.vox-805f9ab2b797c5e15ec165cc5562421a.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/motorized.vox"
+dest_files=[ "res://.import/motorized.vox-805f9ab2b797c5e15ec165cc5562421a.mesh" ]
+
+[params]
+

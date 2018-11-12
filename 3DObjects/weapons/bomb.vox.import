@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/bomb.vox-ee5e7f9d3562acd2afb5a0169c29e78e.mesh"
+
+[deps]
+
+source_file="res://3DObjects/weapons/bomb.vox"
+dest_files=[ "res://.import/bomb.vox-ee5e7f9d3562acd2afb5a0169c29e78e.mesh" ]
+
+[params]
+

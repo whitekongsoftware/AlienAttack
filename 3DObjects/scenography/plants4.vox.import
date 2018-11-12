@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/plants4.vox-a87a3356ca03add19352b364bba9e578.mesh"
+
+[deps]
+
+source_file="res://3DObjects/scenography/plants4.vox"
+dest_files=[ "res://.import/plants4.vox-a87a3356ca03add19352b364bba9e578.mesh" ]
+
+[params]
+

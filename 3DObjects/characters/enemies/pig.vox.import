@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/pig.vox-885865b58e3cf5956651d6c0ba218304.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/pig.vox"
+dest_files=[ "res://.import/pig.vox-885865b58e3cf5956651d6c0ba218304.mesh" ]
+
+[params]
+

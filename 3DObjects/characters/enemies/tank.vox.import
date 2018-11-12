@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/tank.vox-017fa397db40cee1927227825e9576f4.mesh"
+
+[deps]
+
+source_file="res://3DObjects/characters/enemies/tank.vox"
+dest_files=[ "res://.import/tank.vox-017fa397db40cee1927227825e9576f4.mesh" ]
+
+[params]
+
